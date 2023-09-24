@@ -1,9 +1,16 @@
 # Pares-o-Nones
 
 Todo lo que necesitas está en el archivo javascript :)
-
-
+  
+_(Live preview: https://dianastring.github.io/Pares-o-Nones/)_  
+  
+<br>  
+<r> 
+  
+---
+   
 ### Me ayuda mucho hacer bocetos en el bloc de notas antes de ponerme a programar:
+<br>
 
 ```
 Escena 1 A
