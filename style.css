@@ -1,0 +1,48 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+main {
+  color: #383838;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-left: 20px;
+  height: 100vh;
+  text-align: center;
+/*   display: flex;
+  flex-direction: column;
+  justify-content:first baseline;
+  align-items: center; */
+}
+
+h1 { margin-top: 5rem; }
+h2 { margin-bottom: 2rem; font-size: 1.3rem; }
+
+p { margin-bottom: 1rem; }
+
+form {
+  margin-block: 3rem;
+}
+
+fieldset {
+  margin: auto;
+  width: 300px;
+  margin-bottom: 1.5rem;
+  border: none;
+}
+
+select, input {
+  padding: .3rem;
+  padding-inline: 1rem;
+  /* font-size: 1.2rem; */
+  cursor: pointer;
+}
+
+.strong {
+  font-weight: bold;
+  font-style: italic;
+  margin-bottom: 1.6rem;
+}
+
+.inactive{
+  color:#b9b9b9;
+  border: 1px solid #b9b9b9;
+  cursor: default;
+}
