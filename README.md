@@ -17,9 +17,9 @@ Escena 1 A
 
 Pares o nones:
 
-Escoje un bando: seleccionar/Pares/Nones
+Escoge un bando: seleccionar/Pares/Nones
 
-Escoje n° de dedos: seleccionar/1/2/3/4/5
+Escoge n° de dedos: seleccionar/1/2/3/4/5
 
 ¡Listo!*
 
@@ -31,9 +31,9 @@ Escena 1 B
 
 Pares o nones:
 
-Escoje un bando: Pares
+Escoge un bando: Pares
 
-Escoje n° de dedos: 2
+Escoge n° de dedos: 2
 
 ¡Listo!*
 
@@ -45,9 +45,9 @@ Escena 2
 
 Pares o nones:
 
-Escoje un bando: Pares
+Escoge un bando: Pares
 
-Escoje n° de dedos: 2
+Escoge n° de dedos: 2
 
 La máquina eligió 5 dedos, el usuario 2.
 
